@@ -11,8 +11,11 @@ This project is a simple TODO List application built using React.js. It allows u
 
 ## Features
 ✅ User can add tasks with a timer.
+
 ✅ User can remove individual tasks.
+
 ✅ User can track their progress in the footer.
+
 ✅ User can sort the task list.
 
 ## Learning Objectives
