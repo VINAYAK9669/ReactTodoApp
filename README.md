@@ -6,6 +6,9 @@ This project is a simple TODO List application built using React.js. It allows u
 ## Technology
 - Built with React.js
 
+## Links
+| Netlify Hosted Link- [https://wonderful-florentine-eb9dfe.netlify.app/]
+
 ## Features
 ✅ User can add tasks with a timer.
 ✅ User can remove individual tasks.
