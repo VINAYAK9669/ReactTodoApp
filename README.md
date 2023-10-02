@@ -17,9 +17,13 @@ This project is a simple TODO List application built using React.js. It allows u
 
 ## Learning Objectives
 🎯 Gain practical experience with `useState` in React.
+
 📋 Learn how to manage lists in React.
+
 📝 Understand how to handle forms in React and implement state lifting.
+
 🔍 Explore sorting techniques in React.
+
 🚀 Learn how to deploy a React project to GitHub.
 
 ## Acknowledgments
