@@ -1,4 +1,4 @@
-# TODO List Project
+# TODO LIST TRACKER [DESKTOP APP]
 
 ## Overview
 This project is a simple TODO List application built using React.js. It allows users to efficiently manage their tasks and track their progress. The project focuses on various React.js concepts and provides practical insights into their implementation.
