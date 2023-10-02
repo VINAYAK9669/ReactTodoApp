@@ -18,15 +18,15 @@ This project is a simple TODO List application built using React.js. It allows u
 ✅ User can sort the task list.
 
 ## :dart: Learning Objectives
-🎯 Gain practical experience with `useState` in React.
+🎯 Gained practical experience with `useState` in React.
 
-📋 Learn how to manage lists in React.
+📋 Learned how to manage lists in React.
 
-📝 Understand how to handle forms in React and implement state lifting.
+📝 Understood the way to handle forms in React and implemented state lifting.
 
-🔍 Explore sorting techniques in React.
+🔍 Explored sorting techniques in React.
 
-🚀 Learn how to deploy a React project to GitHub.
+🚀 Learned how to deploy a React project to GitHub.
 
 ## :clap: Acknowledgments
 Special thanks to Jonas Schmedtmann community for their valuable resources and support in learning and building this project.
