@@ -44,7 +44,7 @@ export default function TaskList({
         >
           <option value="input">Sort by input order</option>
           <option value="description">Sort by description</option>
-          <option value="packed">Sort by input packed</option>
+          <option value="packed">Sort by Completed Status</option>
         </select>
         <button
           onClick={() => clearItems()}
