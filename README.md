@@ -8,6 +8,8 @@ This project is a simple TODO List application built using React.js. It allows u
 ## Links
   |Netlify Hosted Link- [Visit my website](https://wonderful-florentine-eb9dfe.netlify.app/)
 
+  |Check out the Video Demo in linkedIn Post- [Click Here](https://www.linkedin.com/posts/vinay1998_reactjs-webdevelopment-codingjourney-activity-7114620009548574720-HXYd?utm_source=share&utm_medium=member_desktop)
+
 ## :rocket: Features
 ✅ User can add tasks with a timer.
 
